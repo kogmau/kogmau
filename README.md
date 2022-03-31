@@ -1,16 +1,9 @@
 ### Hi there 👋
 ### Eu sou William Marques
 Progamador em ascensão &#129488;
-
-
 <br/>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kogmau&theme=vue&show_icons=true)
-
-
 <br/>
-
 ## Tecnologias 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
@@ -38,17 +31,3 @@ Progamador em ascensão &#129488;
 <img aling="center" alt="" src=""/>
 <img aling="center" alt="" src=""/>
 </div>
-<!--
-**kogmau/kogmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
